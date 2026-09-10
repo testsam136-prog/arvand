@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://testsam136-prog.github.io/arvand/sitemap.xml
